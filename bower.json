@@ -1,0 +1,6 @@
+{
+  "name": "tworit",
+  "dependencies": {
+    "jquery": "^3.0.0"
+  }
+}
